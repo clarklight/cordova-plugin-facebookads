@@ -32,9 +32,9 @@ import com.rjfun.cordova.ad.GenericAdPlugin;
 public class FacebookAdPlugin extends GenericAdPlugin {
     private static final String LOGTAG = "FacebookAds";
 
-    private static final String TEST_BANNER_ID = "726719434140206_777151452430337";
-    private static final String TEST_INTERSTITIAL_ID = "726719434140206_777151589096990";
-    private static final String TEST_NATIVEAD_ID = "726719434140206_777151705763645";
+    private static final String TEST_BANNER_ID = "72672342346_72342342337";
+    private static final String TEST_INTERSTITIAL_ID = "72623423406_77723423490";
+    private static final String TEST_NATIVEAD_ID = "7262342346_772423445";
     
     private AdSize adSize;
     
